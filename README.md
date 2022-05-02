@@ -1,2 +1,2 @@
 # GamelyProject
-React-app using REST API to pull games and game titles/descriptions based on choices made with 
+Currently deployed through Github using this link: https://npala043.github.io/gamely/
